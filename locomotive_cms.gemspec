@@ -34,7 +34,7 @@ Gem::Specification.new do |s|
 
   s.add_dependency 'kaminari',                        '~> 0.14.1'
 
-  s.add_dependency 'locomotive_plugins',              '~> 1.1.0'
+  s.add_dependency 'locomotive_plugins',              '~> 1.2.0'
   s.add_dependency 'therubyracer',                    '~> 0.12.1'
 
   s.add_dependency 'haml',                            '~> 4.0.2'
