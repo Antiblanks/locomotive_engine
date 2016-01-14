@@ -37,7 +37,7 @@ group :development do
   gem 'github_api'
 
   gem 'unicorn-rails' # Using unicorn_rails instead of webrick (default server)
-  gem 'debugger'
+  #gem 'debugger'
 end
 
 group :test do

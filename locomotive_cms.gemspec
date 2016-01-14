@@ -65,7 +65,7 @@ Gem::Specification.new do |s|
   s.add_dependency 'httparty',                        '~> 0.11.0'
   s.add_dependency 'actionmailer-with-request',       '~> 0.4.0'
 
-  s.add_development_dependency "faye-websocket", '~> 0.4.7' # with 0.5, cucumber features are broken.
+  s.add_development_dependency "faye-websocket",      '~> 0.10.2'
 
   s.files        = Dir[ 'Gemfile',
                         '{app}/**/*',
