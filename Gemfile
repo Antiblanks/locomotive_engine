@@ -2,6 +2,7 @@
 # encoding: utf-8
 
 source "https://rubygems.org"
+ruby "2.1.1"
 
 gemspec # Include gemspec dependencies
 

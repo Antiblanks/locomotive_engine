@@ -425,6 +425,3 @@ DEPENDENCIES
   thor
   uglifier (~> 1.2.4)
   unicorn-rails
-
-BUNDLED WITH
-   1.11.2
